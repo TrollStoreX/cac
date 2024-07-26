@@ -37,13 +37,13 @@
     },
     {
       "enable": 1,
-      "name": "第五人格",
-      "url": "https://apps.apple.com/cn/app/id1330863325"
+      "name": "YouTube",
+      "url": "https://apps.apple.com/us/app/id544007664"
     },
     {
       "enable": 1,
-      "name": "Alook",
-      "url": "https://apps.apple.com/cn/app/id1261944766",
+      "name": "小红书",
+      "url": "https://apps.apple.com/us/app/id741292507",
       "bark": {
         "body": {
           "cache": "当前最新版本：app_version\\n当前购买价格：app_price\\n已缓存到本地等待下一次对比",
