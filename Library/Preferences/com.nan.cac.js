@@ -27,13 +27,13 @@
     },
     {
       "enable": 1,
-      "name": "原神",
-      "url": "https://apps.apple.com/cn/app/id1467190251"
+      "name": "X",
+      "url": "https://apps.apple.com/us/app/id333903271"
     },
     {
       "enable": 1,
-      "name": "崩坏：星穹铁道",
-      "url": "https://apps.apple.com/cn/app/id1523037824"
+      "name": "Instagram",
+      "url": "https://apps.apple.com/us/app/id389801252"
     },
     {
       "enable": 1,
