@@ -2,8 +2,8 @@
   "app": [
     {
       "enable": 1,
-      "name": "Bark",
-      "url": "https://apps.apple.com/cn/app/id1403753865"
+      "name": "Nicegram",
+      "url": "https://apps.apple.com/us/app/id1608870673"
     },
     {
       "enable": 1,
