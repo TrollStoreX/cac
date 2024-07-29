@@ -7,6 +7,11 @@
     },
     {
       "enable": 1,
+      "name": "Spotify",
+      "url": "https://apps.apple.com/app/id324684580"
+    },
+    {
+      "enable": 1,
       "name": "QQ",
       "url": "https://apps.apple.com/cn/app/id444934666"
     },
