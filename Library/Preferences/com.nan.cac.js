@@ -8,7 +8,7 @@
     {
       "enable": 1,
       "name": "Spotify",
-      "url": "https://apps.apple.com/app/id324684580"
+      "url": "https://apps.apple.com/us/app/id324684580"
     },
     {
       "enable": 1,
