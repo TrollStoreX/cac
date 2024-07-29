@@ -5,5 +5,5 @@
   "name": "Nicegram: AI Chat for Telegram",
   "version": "1.6.7",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/8c/9e/ae8c9ed4-f987-7c19-0c7d-4a4dbde56c56/AppIconLLC-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/91/e5/2091e5a2-b865-d695-6fde-0d41d3540b51/AppIconLLC-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg"
 }
