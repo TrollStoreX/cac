@@ -2,8 +2,8 @@
   "app": [
     {
       "enable": 1,
-      "name": "Nicegram",
-      "url": "https://apps.apple.com/us/app/id1608870673"
+      "name": "酷安",
+      "url": "https://apps.apple.com/us/app/id1422581869"
     },
     {
       "enable": 1,
@@ -22,8 +22,23 @@
     },
     {
       "enable": 1,
+      "name": "Surge",
+      "url": "https://apps.apple.com/us/app/id1442620678"
+    },
+    {
+      "enable": 1,
+      "name": "威锋",
+      "url": "https://apps.apple.com/us/app/id1411932809"
+    },
+    {
+      "enable": 1,
       "name": "Telegram",
       "url": "https://apps.apple.com/us/app/id686449807"
+    },
+    {
+      "enable": 1,
+      "name": "TikTok",
+      "url": "https://apps.apple.com/us/app/tiktok/id835599320"
     },
     {
       "enable": 1,
@@ -34,6 +49,11 @@
       "enable": 1,
       "name": "X",
       "url": "https://apps.apple.com/us/app/id333903271"
+    },
+    {
+      "enable": 1,
+      "name": "Picsart",
+      "url": "https://apps.apple.com/us/app/id587366035"
     },
     {
       "enable": 1,
