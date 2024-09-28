@@ -5,5 +5,5 @@
   "name": "Picsart AI Photo Video Editor",
   "version": "25.9.1",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/48/50/044850d9-1042-16f8-7e24-98657c3f64ab/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/00/9a/89009a28-b477-04c7-bf2b-5a3cbce98d75/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg"
 }
