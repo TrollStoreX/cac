@@ -56,7 +56,20 @@ jobs:
           git config --global user.email 'action@github.com'
           git config --global user.name 'GitHub Action'
           git add .
-          if ! git diff --staged --exit-code; then
+          if ! git diff --staged --exit-code 1>>/dev/null; then
             git commit -m 'save caches'
             git push
           fi
+          
+      - name: download remove_all_actions
+        run: |
+          sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
+          sudo chmod -R 0755 '/usr/bin/remove_all_actions'
+
+      - name: remove all old actions
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          remove_all_actions
