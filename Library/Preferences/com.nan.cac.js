@@ -17,13 +17,18 @@
     },
     {
       "enable": 1,
-      "name": "微信",
-      "url": "https://apps.apple.com/cn/app/id414478124"
+      "name": "Surge",
+      "url": "https://apps.apple.com/us/app/id1442620678"
+    },
+        {
+      "enable": 1,
+      "name": " Quantumult X",
+      "url": "https://apps.apple.com/us/app/id1443988620"
     },
     {
       "enable": 1,
-      "name": "Surge",
-      "url": "https://apps.apple.com/us/app/id1442620678"
+      "name": "微信",
+      "url": "https://apps.apple.com/cn/app/id414478124"
     },
     {
       "enable": 1,
