@@ -12,6 +12,11 @@
     },
     {
       "enable": 1,
+      "name": "微博",
+      "url": "https://apps.apple.com/cn/app/id350962117"
+    },
+    {
+      "enable": 1,
       "name": "QQ",
       "url": "https://apps.apple.com/cn/app/id444934666"
     },
