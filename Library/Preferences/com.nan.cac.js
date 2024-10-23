@@ -7,8 +7,18 @@
     },
     {
       "enable": 1,
+      "name": " ChatGPT",
+      "url": "https://apps.apple.com/us/app/id6448311069"
+    },
+    {
+      "enable": 1,
       "name": "Spotify",
       "url": "https://apps.apple.com/us/app/id324684580"
+    },
+    {
+      "enable": 1,
+      "name": "Loon",
+      "url": "https://apps.apple.com/us/app/id1373567447"
     },
     {
       "enable": 1,
@@ -19,6 +29,11 @@
       "enable": 1,
       "name": "QQ",
       "url": "https://apps.apple.com/cn/app/id444934666"
+    },
+    {
+      "enable": 1,
+      "name": "DAMA",
+      "url": "https://apps.apple.com/us/app/id1534690075"
     },
     {
       "enable": 1,
