@@ -7,9 +7,13 @@
     },
     {
       "enable": 1,
-      "name": " ChatGPT",
+      "name": "ChatGPT",
       "url": "https://apps.apple.com/us/app/id6448311069"
     },
+    {
+      "enable": 1,
+      "name": "Shadowrocket",
+      "url": "https://apps.apple.com/us/app/id932747118"
     {
       "enable": 1,
       "name": "Spotify",
@@ -42,7 +46,7 @@
     },
         {
       "enable": 1,
-      "name": " Quantumult X",
+      "name": "Quantumult X",
       "url": "https://apps.apple.com/us/app/id1443988620"
     },
     {
