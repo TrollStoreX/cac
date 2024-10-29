@@ -14,6 +14,7 @@
       "enable": 1,
       "name": "Shadowrocket",
       "url": "https://apps.apple.com/us/app/id932747118"
+    },
     {
       "enable": 1,
       "name": "Spotify",
