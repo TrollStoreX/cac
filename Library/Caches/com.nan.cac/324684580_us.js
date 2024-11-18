@@ -5,5 +5,5 @@
   "name": "Spotify - Music and Podcasts",
   "version": "8.9.92",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/73/10/67731047-dcb6-a502-fc6d-517ed28e6505/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/c4/54/55c45498-09d1-d69c-3a82-bbe96b39dd63/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg"
 }
