@@ -5,5 +5,5 @@
   "name": "TikTok",
   "version": "37.4.0",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/e1/d1/06e1d12d-9a6c-cd3c-99e8-e353da7cafb1/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/0e/4e/d20e4e60-397a-30dd-9ae7-a0e625eba9b9/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/100x100bb.jpg"
 }
