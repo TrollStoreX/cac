@@ -5,5 +5,5 @@
   "name": "YouTube: Watch, Listen, Stream",
   "version": "19.47.7",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1c/85/841c85ff-8117-8921-c3ac-d1b60489a5a7/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/a1/c0/dca1c0c5-6fcc-4f7f-078f-81d486f6f902/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/100x100bb.jpg"
 }
