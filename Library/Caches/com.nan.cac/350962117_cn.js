@@ -5,5 +5,5 @@
   "name": "微博",
   "version": "14.11.2",
   "price": "免费",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5f/3f/6f5f3f76-f2ec-1da0-10d7-779dbb2286b4/WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/db/c6/61dbc630-8e81-6183-abda-28d8efff95d7/WeiboAppIcon-0-0-1x_U007epad-0-6-0-0-85-220.png/100x100bb.jpg"
 }
