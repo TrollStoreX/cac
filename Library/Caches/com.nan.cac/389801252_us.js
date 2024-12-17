@@ -3,7 +3,7 @@
   "bundle": "com.burbn.instagram",
   "id": 389801252,
   "name": "Instagram",
-  "version": "361.0.0",
+  "version": "361.1.0",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/da/ee/95daeeb9-fb4b-eb47-f2f9-4402e55d5e65/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/29/0d/7f290d2d-8fe8-2aad-2071-1470b98c85b3/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg"
 }
