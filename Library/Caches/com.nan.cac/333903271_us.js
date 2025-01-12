@@ -5,5 +5,5 @@
   "name": "X",
   "version": 10.76,
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/d0/d7/14d0d7be-c13b-374b-906d-2e1f28c3e13c/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/40/63/234063fb-ac56-d2ea-301e-40d3bd5f9c7f/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.jpg"
 }
