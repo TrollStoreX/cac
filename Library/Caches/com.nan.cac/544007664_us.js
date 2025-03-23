@@ -3,7 +3,7 @@
   "bundle": "com.google.ios.youtube",
   "id": 544007664,
   "name": "YouTube",
-  "version": "20.11.6",
+  "version": "20.12.4",
   "price": "Free",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6c/56/ad6c569b-ef95-804a-9440-fc55613565f4/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/100x100bb.jpg"
 }
