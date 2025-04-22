@@ -5,5 +5,5 @@
   "name": "X",
   "version": 10.94,
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/16/3f/e6163fdf-61fb-3fae-9dff-cb6516a78d29/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/ff/1c/57ff1c87-f347-2ab4-c2ba-c44e3fb252c5/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
 }
