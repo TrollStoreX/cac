@@ -5,5 +5,5 @@
   "name": "酷安-分享美好科技生活",
   "version": "15.2.1",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/0c/dc/390cdc74-9210-a7bd-4ca2-078c93bfa390/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/2c/26/692c2669-1675-e0be-de8b-8fca6664dd29/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg"
 }
