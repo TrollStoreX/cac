@@ -5,5 +5,5 @@
   "name": "rednote",
   "version": "8.81.2",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/72/36/6c723654-e18b-93a3-7442-5607a5da294c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/dd/56/38dd5655-8b80-1e37-7a66-3a6cbc31df6b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg"
 }
