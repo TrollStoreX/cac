@@ -5,5 +5,5 @@
   "name": "Shadowrocket",
   "version": "2.2.66",
   "price": "$2.99",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/36/1d/e7361dfc-950a-d008-9fe2-192e91f7f655/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/90/60/b690609b-70f8-b613-83d7-a06242e66108/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
 }
