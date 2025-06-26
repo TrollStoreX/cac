@@ -3,7 +3,7 @@
   "bundle": "com.zhiliaoapp.musically",
   "id": 835599320,
   "name": "TikTok - Videos, Shop & LIVE",
-  "version": "40.1.0",
+  "version": "40.3.0",
   "price": "Free",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/23/75/5023758d-b8c0-9eec-8d9d-a55b20e02cd4/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
 }
