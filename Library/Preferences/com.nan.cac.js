@@ -17,8 +17,23 @@
     },
     {
       "enable": 1,
+      "name": "Facebook",
+      "url": "https://apps.apple.com/us/app/id284882215"
+    },
+    {
+      "enable": 1,
+      "name": "Proknockout",
+      "url": "https://apps.apple.com/us/app/id944665061"
+    },
+    {
+      "enable": 1,
       "name": "Spotify",
       "url": "https://apps.apple.com/us/app/id324684580"
+    },
+    {
+      "enable": 1,
+      "name": "扫描全能王",
+      "url": "https://apps.apple.com/cn/app/id388627783"
     },
     {
       "enable": 1,
