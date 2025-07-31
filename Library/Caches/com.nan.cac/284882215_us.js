@@ -5,5 +5,5 @@
   "name": "Facebook",
   "version": "524.0.0",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/88/fc/1888fc33-6979-90da-3ad1-9e8106e6b303/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/18/4a/9a184a16-812c-ef52-721a-5ff47b14a82d/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
 }
