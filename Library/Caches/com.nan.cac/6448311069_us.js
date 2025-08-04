@@ -3,7 +3,7 @@
   "bundle": "com.openai.chat",
   "id": 6448311069,
   "name": "ChatGPT",
-  "version": "1.2025.204",
+  "version": "1.2025.210",
   "price": "Free",
   "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/95/06/3195066f-79de-cf40-b8dc-805e7ed8950d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg"
 }
