@@ -5,5 +5,5 @@
   "name": "ChatGPT",
   "version": "1.2025.210",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/95/06/3195066f-79de-cf40-b8dc-805e7ed8950d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4c/b6/a54cb6a3-dfb1-9e3a-1b7c-d86ad0bea1f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg"
 }
