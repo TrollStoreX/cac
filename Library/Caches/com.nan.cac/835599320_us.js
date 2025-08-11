@@ -5,5 +5,5 @@
   "name": "TikTok - Videos, Shop & LIVE",
   "version": "41.1.0",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a2/fa/56a2fa12-e472-8565-ccd1-1b988e891ecd/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/e1/f2/f7e1f251-1eb0-a5b1-e3f7-f38d19560424/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
 }
