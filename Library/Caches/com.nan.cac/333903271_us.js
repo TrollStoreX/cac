@@ -5,5 +5,5 @@
   "name": "X",
   "version": "11.12.2",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/6f/0a/b96f0af0-8b50-675f-e74c-80235dfff518/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/ad/af/68adafa1-ddec-0471-ae03-7a8999687592/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
 }
