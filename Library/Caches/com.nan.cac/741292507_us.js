@@ -5,5 +5,5 @@
   "name": "小红书 – 你的生活兴趣社区",
   "version": "9.2.3",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/fb/96/4efb96e8-da89-6970-3ef3-d6d94d137ed7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/ac/1e/78ac1ed7-c1e0-6543-dfe3-ef0b20c6e069/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg"
 }
