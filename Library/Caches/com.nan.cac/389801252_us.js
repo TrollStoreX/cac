@@ -5,5 +5,5 @@
   "name": "Instagram",
   "version": "400.0.0",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/78/d4/8278d404-d2d9-65ef-37d7-79b87d23a2cf/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/92/25/409225c7-3545-fc45-1bbb-62a6745289ad/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
 }
