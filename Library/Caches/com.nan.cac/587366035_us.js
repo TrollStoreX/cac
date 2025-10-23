@@ -5,5 +5,5 @@
   "name": "Picsart AI Photo Editor, Video",
   "version": "28.6.3",
   "price": "Free",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/e5/eb/95e5eb3b-0f73-bd07-677e-702c8a1dc846/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/98/c3/d298c3de-0fac-0530-c9ec-455c79c3ddf2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg"
 }
