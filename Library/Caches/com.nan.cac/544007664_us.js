@@ -3,7 +3,7 @@
   "bundle": "com.google.ios.youtube",
   "id": 544007664,
   "name": "YouTube",
-  "version": "20.44.2",
+  "version": "20.43.3",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/f2/16/8ff2165b-5fe1-f6a8-913c-a8826c0ae849/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/38/e7/9038e7f7-3d48-4464-62f9-19a71e383144/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg"
 }
