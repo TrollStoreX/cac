@@ -1,9 +1,10 @@
 {
   "status": 0,
-  "bundle": "com.xingin.discover",
   "id": 741292507,
+  "bundle": "com.xingin.discover",
   "name": "rednote",
-  "version": "9.7.3",
-  "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/5c/82/af5c82f4-535a-0847-8fd7-6a7589d901ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  "version": "9.7.4",
+  "version_release_timestamp": "2025-11-05T03:34:11Z",
+  "price": "USD 0.00",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/4d/84/034d8485-a4c9-cd3b-c3f9-7e53323b2a56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
 }
