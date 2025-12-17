@@ -13,7 +13,7 @@
     {
       "enable": 1,
       "name": "哔哩哔哩",
-      "url": "https://apps.apple.com/app/us/id736536022"
+      "url": "https://apps.apple.com/us/app/id736536022"
     },
     {
       "enable": 1,
