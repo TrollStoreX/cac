@@ -12,6 +12,11 @@
     },
     {
       "enable": 1,
+      "name": "哔哩哔哩",
+      "url": "https://apps.apple.com/app/us/id736536022"
+    },
+    {
+      "enable": 1,
       "name": "Shadowrocket",
       "url": "https://apps.apple.com/us/app/id932747118"
     },
