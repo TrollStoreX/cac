@@ -37,6 +37,11 @@
     },
     {
       "enable": 1,
+      "name": "Infuse",
+      "url": "https://apps.apple.com/us/app/id1136220934"
+    },
+    {
+      "enable": 1,
       "name": "扫描全能王",
       "url": "https://apps.apple.com/cn/app/id388627783"
     },
