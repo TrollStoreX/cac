@@ -3,9 +3,9 @@
   "id": 1422581869,
   "bundle": "com.coolapk.app",
   "name": "酷安-分享美好科技生活",
-  "version": "15.8.1",
-  "version_id": 880161401,
-  "version_release_timestamp": "2025-12-01T02:00:49Z",
+  "version": "15.8.2",
+  "version_id": 880894739,
+  "version_release_timestamp": "2025-12-23T07:38:01Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/54/eb/4a54ebab-5008-bfd0-0be7-58cc3e2af403/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/28/77/b72877e0-f1a1-00dd-4813-776b4d94e43b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
 }
