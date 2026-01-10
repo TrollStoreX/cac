@@ -12,6 +12,11 @@
     },
     {
       "enable": 1,
+      "name": "Swiftgram",
+      "url": "https://apps.apple.com/us/app/id6471879502"
+    },
+    {
+      "enable": 1,
       "name": "哔哩哔哩",
       "url": "https://apps.apple.com/us/app/id736536022"
     },
