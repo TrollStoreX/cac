@@ -3,9 +3,9 @@
   "id": 350962117,
   "bundle": "com.sina.weibo",
   "name": "微博",
-  "version": "16.3.0",
-  "version_id": 882967822,
-  "version_release_timestamp": "2026-03-05T02:01:23Z",
+  "version": "16.3.1",
+  "version_id": 883220052,
+  "version_release_timestamp": "2026-03-16T02:00:31Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b4/f6/ebb4f6ef-eb5c-9b03-933b-833b8b492344/WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/e3/1a/03e31a1e-f70d-ba77-342f-6eb58c4904f1/WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
 }
