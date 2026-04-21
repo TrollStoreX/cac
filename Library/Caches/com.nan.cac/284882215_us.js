@@ -3,9 +3,9 @@
   "id": 284882215,
   "bundle": "com.facebook.Facebook",
   "name": "Facebook",
-  "version": 557,
-  "version_id": 883976246,
-  "version_release_timestamp": "2026-04-14T12:07:04Z",
+  "version": "558.0.0",
+  "version_id": 884503159,
+  "version_release_timestamp": "2026-04-21T12:17:58Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/27/ac/5a27acbb-4b2a-8c6f-40e6-c9b5a1aed6b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/45/c0/4445c00f-bcd5-6237-6991-4440eb46116b/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
 }
