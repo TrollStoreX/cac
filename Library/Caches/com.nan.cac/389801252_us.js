@@ -3,9 +3,9 @@
   "id": 389801252,
   "bundle": "com.burbn.instagram",
   "name": "Instagram",
-  "version": "430.0.0",
-  "version_id": 885526725,
-  "version_release_timestamp": "2026-05-21T13:16:39Z",
+  "version": "431.0.0",
+  "version_id": 885969253,
+  "version_release_timestamp": "2026-05-26T05:02:32Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/61/cb/4661cbe0-5216-7acc-2147-b307c5cb3f82/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/4e/27/534e278a-01fd-8060-81d5-c9b290c4b422/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
 }
