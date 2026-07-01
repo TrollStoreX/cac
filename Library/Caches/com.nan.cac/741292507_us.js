@@ -3,9 +3,9 @@
   "id": 741292507,
   "bundle": "com.xingin.discover",
   "name": "rednote",
-  "version": 9.359999999999999,
-  "version_id": 887424001,
-  "version_release_timestamp": "2026-06-27T02:17:01Z",
+  "version": "9.36.2",
+  "version_id": 887649345,
+  "version_release_timestamp": "2026-07-01T08:26:48Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/07/52/7807527d-725e-29c1-af79-8f8d932cba5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9c/6e/af9c6ee4-4a28-8daf-3c25-9965afc9470f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
 }
