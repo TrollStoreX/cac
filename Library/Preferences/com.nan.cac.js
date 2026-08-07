@@ -7,6 +7,11 @@
     },
     {
       "enable": 1,
+      "name": "Threads",
+      "url": "https://apps.apple.com/us/app//id6446901002"
+    },
+    {
+      "enable": 1,
       "name": "ChatGPT",
       "url": "https://apps.apple.com/us/app/id6448311069"
     },
