@@ -3,9 +3,9 @@
   "id": 6446901002,
   "bundle": "com.burbn.barcelona",
   "name": "Threads",
-  "version": 441,
-  "version_id": 888909930,
-  "version_release_timestamp": "2026-08-03T14:01:49Z",
+  "version": 442,
+  "version_id": 889243646,
+  "version_release_timestamp": "2026-08-10T14:06:20Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4c/fb/e74cfb45-827b-e1b0-1456-7298c0d01232/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/62/fb/a562fbb2-737f-7a1f-7089-ca03bae9157b/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.jpg"
 }
