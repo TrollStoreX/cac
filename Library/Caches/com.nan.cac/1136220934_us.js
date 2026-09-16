@@ -3,7 +3,7 @@
   "id": 1136220934,
   "bundle": "com.firecore.infuse",
   "name": "Infuse",
-  "version": "8.5.4",
+  "version": "8.5.2",
   "version_id": 890727989,
   "version_release_timestamp": "2026-09-14T17:26:47Z",
   "price": null,
