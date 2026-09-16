@@ -3,7 +3,7 @@
   "id": 1422581869,
   "bundle": "com.coolapk.app",
   "name": "酷安-分享美好科技生活",
-  "version": "16.5.8",
+  "version": "16.5.2",
   "version_id": 891129134,
   "version_release_timestamp": "2026-09-11T01:56:58Z",
   "price": null,
