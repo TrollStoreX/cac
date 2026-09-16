@@ -3,9 +3,9 @@
   "id": 1136220934,
   "bundle": "com.firecore.infuse",
   "name": "Infuse",
-  "version": "8.5.4",
-  "version_id": 890727989,
-  "version_release_timestamp": "2026-09-14T17:26:47Z",
+  "version": "8.5.5",
+  "version_id": 891427672,
+  "version_release_timestamp": "2026-09-16T19:47:41Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/08/24/2108246f-f340-6a23-379b-1ea838bd9892/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/8e/69/118e698e-dd6a-d455-a6cf-abbbfa4f024e/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/100x100bb.jpg"
 }
