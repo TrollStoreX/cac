@@ -3,9 +3,9 @@
   "id": 333903271,
   "bundle": "com.atebits.Tweetie2",
   "name": "X",
-  "version": "12.28.1",
-  "version_id": 891660175,
-  "version_release_timestamp": "2026-09-21T14:28:47Z",
+  "version": 12.29,
+  "version_id": 891738139,
+  "version_release_timestamp": "2026-09-24T15:01:26Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/41/30/a54130a2-e1ab-0e52-5e86-7fcbee70f9f8/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/7a/1f/897a1fa0-d1d0-8a80-0b1b-88c3e8f93488/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg"
 }
