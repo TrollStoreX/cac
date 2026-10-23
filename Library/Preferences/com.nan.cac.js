@@ -1,5 +1,11 @@
 {
   "app": [
+   {
+      "enable": 1,
+      "name": "贴吧",
+      "url": "https://apps.apple.com/cn/app/id477927812"
+    },
+    {
     {
       "enable": 1,
       "name": "酷安",
