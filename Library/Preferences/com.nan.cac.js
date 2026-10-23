@@ -7,6 +7,11 @@
     },
     {
       "enable": 1,
+      "name": "红果短剧",
+      "url": "https://apps.apple.com/cn/app/id6451407032"
+    },
+    {
+      "enable": 1,
       "name": "番茄小说",
       "url": "https://apps.apple.com/cn/app/id1468454200"
     },
