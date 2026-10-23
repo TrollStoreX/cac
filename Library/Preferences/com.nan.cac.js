@@ -16,7 +16,6 @@
       "url": "https://apps.apple.com/cn/app/id1468454200"
     },
     {
-    {
       "enable": 1,
       "name": "酷安",
       "url": "https://apps.apple.com/us/app/id1422581869"
