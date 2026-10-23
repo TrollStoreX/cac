@@ -6,6 +6,11 @@
       "url": "https://apps.apple.com/cn/app/id477927812"
     },
     {
+      "enable": 1,
+      "name": "番茄小说",
+      "url": "https://apps.apple.com/cn/app/id1468454200"
+    },
+    {
     {
       "enable": 1,
       "name": "酷安",
