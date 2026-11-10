@@ -3,9 +3,9 @@
   "id": 6448311069,
   "bundle": "com.openai.chat",
   "name": "ChatGPT",
-  "version": "1.2026.300",
-  "version_id": 894077664,
-  "version_release_timestamp": "2026-11-03T18:55:49Z",
+  "version": "1.2026.307",
+  "version_id": 894513572,
+  "version_release_timestamp": "2026-11-10T17:56:25Z",
   "price": null,
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9c/84/5c9c8431-bd39-08fa-cba4-8bb6561f9877/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/80/03/fb80039a-f8c2-f1ca-4fbd-7f9d77909b03/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg"
 }
